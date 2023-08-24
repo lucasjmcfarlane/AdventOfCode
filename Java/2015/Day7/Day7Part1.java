@@ -6,7 +6,7 @@ import java.util.Collections;
 
 public class Day7Part1 {
     public static void main(String[] args) {
-
+        
         try{
             File file = new File("Day7Input.txt");
             Scanner sc = new Scanner(file);
